@@ -1,0 +1,3 @@
+first line 
+this is the demo ruby codes to read and write a file.
+end of file.
